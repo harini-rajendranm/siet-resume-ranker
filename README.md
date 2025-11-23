@@ -1,7 +1,8 @@
 
-# AI Resume Ranker — Prototype (Streamlit)
+# Match-o-Matic 3000 - Sample Project
 
- his is a minimal, local prototype of an AI Resume Ranker. It uses a simple keyword-overlap scoring method to rank uploaded resumes against a pasted Job Description (JD).
+Match-o-Matic 3000 is an intelligent resume evaluation system that automatically analyzes and ranks uploaded resumes based on how closely they match a provided job description. When a user pastes a JD into the platform, system extracts key skills, qualifications, experience levels, and role-specific requirements using advanced text analysis. It then compares these criteria against the content of each resume to generate a detailed compatibility score. This process helps hiring teams quickly identify the most suitable candidates without manually screening every application. By offering objective, consistent, and data-driven ranking, system enhances the efficiency, accuracy, and fairness of the recruitment and shortlisting process.
+.
 
 ## Files
 - `app.py` — Streamlit app you can run locally.
